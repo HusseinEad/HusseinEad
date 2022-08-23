@@ -6,7 +6,6 @@
 <hr/>
 
 <br>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=candida18&label=Profile%20views&color=0e75b6&style=plastic" alt="candida18" /> </p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=husseinead&label=Profile%20views&color=0e75b6&style=flat" alt="husseinead" /> </p>
 <img align="right" src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" style="width: 66%; display: inline-block;" data-target="animated-image.originalImage">
