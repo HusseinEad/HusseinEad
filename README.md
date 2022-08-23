@@ -1,5 +1,7 @@
 <h1 align="center">Hi   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Hussein Eid Ali</h1>
+<p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?lines=Managment+Information+System+Student;Front-End Developer&center=true&width=500&height=50">
+</p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=husseinead&label=Profile%20views&color=0e75b6&style=flat" alt="husseinead" /> </p>
 <img align="right" src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" style="width: 66%; display: inline-block;" data-target="animated-image.originalImage">
 
