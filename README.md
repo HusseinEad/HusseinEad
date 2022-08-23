@@ -10,8 +10,6 @@
 
 - 👯 I’m looking to collaborate on **DevOps**<br>
 
-- 🤝 I’m looking for help with **Open Source Projects**<br>
-
 - 💬 Ask me about **Angular**<br>
 
 - 📫 How to reach me **husseinead177@gmail.com**<br>
